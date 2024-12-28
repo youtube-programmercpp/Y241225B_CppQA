@@ -19,7 +19,4 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="QA.txt" />
-  </ItemGroup>
 </Project>

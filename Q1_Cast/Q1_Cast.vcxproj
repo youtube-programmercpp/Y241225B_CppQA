@@ -129,9 +129,6 @@
   <ItemGroup>
     <ClCompile Include="Y241221_MailQA_1_Cast.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="QA.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

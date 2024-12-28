@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Y241221_MailQA_2_EnumClass.cpp" />
+    <ClCompile Include="Y241221_MailQA_2_EnumClass_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DefineFruit.h" />
